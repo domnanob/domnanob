@@ -17,8 +17,11 @@ Started learning IT in high school, graduated with excellent results, built real
 🚀 **Outside the terminal:**
 When I’m not debugging loops, you’ll find me smashing tennis balls, leveling up in games, or capturing life through photography 📸. 
 
-👋 Let’s build something awesome together — **collabs welcome!**
-👉 *Open to work, projects, and new ideas.*
+✨ Creating projects since 8 years
+
+🎯 I already got my degree and searching opportunities in Vienna
+
+🎲 Fun fact: I love corgis!
 
 ---
 

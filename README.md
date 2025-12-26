@@ -1,5 +1,5 @@
 👋 **Hey there, I’m Bálint!**
-Junior developer, lifelong code-lover, and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I *live and breathe software* — and love sharing what I learn along the way. ([domnanob.hu][1])
+Junior developer, lifelong code-lover, and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I *live and breathe software* — and love sharing what I learn along the way.
 
 🧠 **What I do:**
 

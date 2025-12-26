@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 8 years<br>📚 I'm currently learning for my Degree<br>🎯 Goals: get abroad<br>🎲 Fun fact: I love cats!</p>
+<p align="left">✨ Creating projects since 8 years<br>📚 I'm currently learning for my Degree<br>🎯 Goals: get abroad<br>🎲 Fun fact: I love corgis!</p>
 
 ###
 

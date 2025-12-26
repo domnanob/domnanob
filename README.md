@@ -1,5 +1,27 @@
-<h1>Hi 👋, I'm Bálint</h1>
-<p>A passionate Compiuter Scientist from Hungary</p>
+👋 **Hey there, I’m Bálint!**
+Junior developer, lifelong code-lover, and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I *live and breathe software* — and love sharing what I learn along the way. ([domnanob.hu][1])
+
+🧠 **What I do:**
+
+* Build cool projects in C, web, and more
+* Teach programming fundamentals & web development
+* Craft simple games, simulations, and educational tools
+* Keep learning new tech (and sometimes break things just to fix them 😄) 
+
+💻 **Skills & Tools I enjoy:**
+Software planning | Back-end coding | Front-end basics | SQL | Testing | Photoshop & Lightroom | VS Code & Visual Studio | Figma & more 
+
+🎓 **Journey so far:**
+Started learning IT in high school, graduated with excellent results, built real projects, and now I study Software Engineering at ELTE — all while teaching programming classes and leading international project work.
+
+🚀 **Outside the terminal:**
+When I’m not debugging loops, you’ll find me smashing tennis balls, leveling up in games, or capturing life through photography 📸. 
+
+👋 Let’s build something awesome together — **collabs welcome!**
+👉 *Open to work, projects, and new ideas.*
+
+---
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -22,9 +44,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 

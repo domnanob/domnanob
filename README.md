@@ -47,10 +47,3 @@ When I’m not debugging loops, you’ll find me smashing tennis balls, leveling
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 
-
-###
-
-<p align="left">✨ Creating projects since 8 years<br>📚 I already got my degree and searching opportunities in Vienna<br>🎯 Goals: get abroad<br>🎲 Fun fact: I love corgis!</p>
-
-###
-

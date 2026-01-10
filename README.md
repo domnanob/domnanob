@@ -1,12 +1,12 @@
 👋 **Hey there, I’m Bálint!**
-Junior developer, lifelong code-lover, and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I *live and breathe software* — and love sharing what I learn along the way.
+Junior developer, lifelong code-lover, learner and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I've successfully claimed my degree, worked on interesting high quality projects, researches and I love sharing what I learn along the way.
 
 🧠 **What I do:**
 
 * Build cool projects in C, web, and more
 * Teach programming fundamentals & web development
 * Craft simple games, simulations, and educational tools
-* Keep learning new tech (and sometimes break things just to fix them 😄) 
+* Keep learning new tech
 
 💻 **Skills & Tools I enjoy:**
 Software planning | Back-end coding | Front-end basics | SQL | Testing | Photoshop & Lightroom | VS Code & Visual Studio | Figma & more 

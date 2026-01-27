@@ -44,8 +44,8 @@ When I’m not debugging loops, you’ll find me smashing tennis balls, leveling
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;">
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdhrp.com.au%2F11-reasons-to-move-to-the-azure-cloud-with-dhrp%2F&ved=0CBYQjRxqFwoTCNiU3qqlrJIDFQAAAAAdAAAAABAI&opi=89978449" alt="azure" width="42" height="42" />
+<a target="_blank" href="" style="display: inline-block;">
+ <img src="https://dhrp.com.au/wp-content/uploads/2023/12/azure.png" alt="azure" width="42" height="42" />
 </a>
 
 

@@ -24,9 +24,7 @@ When I’m not debugging loops, you’ll find me smashing tennis balls, leveling
 🎲 Fun fact: I love corgis!
 
 ---
-
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+ p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -46,8 +44,10 @@ When I’m not debugging loops, you’ll find me smashing tennis balls, leveling
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="" style="display: inline-block;"><img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Flaravel&ved=0CBYQjRxqFwoTCNiumPyjrJIDFQAAAAAdAAAAABAk&opi=89978449)" alt="laravel" width="42" height="42" /></a>
-<a target="_blank" href="" style="display: inline-block;"><img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fhu.wikipedia.org%2Fwiki%2FF%25C3%25A1jl%3AMicrosoft_.NET_logo.svg&ved=0CBYQjRxqFwoTCIDD0oelrJIDFQAAAAAdAAAAABAI&opi=89978449" alt=".net" width="42" height="42" /></a>
-<a target="_blank" href="" style="display: inline-block;"><img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdhrp.com.au%2F11-reasons-to-move-to-the-azure-cloud-with-dhrp%2F&ved=0CBYQjRxqFwoTCNiU3qqlrJIDFQAAAAAdAAAAABAI&opi=89978449" alt="azure" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdhrp.com.au%2F11-reasons-to-move-to-the-azure-cloud-with-dhrp%2F&ved=0CBYQjRxqFwoTCNiU3qqlrJIDFQAAAAAdAAAAABAI&opi=89978449" alt="azure" width="42" height="42" />
+</a>
+
+
 </p>
 

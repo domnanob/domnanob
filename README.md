@@ -47,7 +47,12 @@ When I’m not debugging loops, you’ll find me smashing tennis balls, leveling
 <a target="_blank" href="" style="display: inline-block;">
  <img src="https://dhrp.com.au/wp-content/uploads/2023/12/azure.png" alt="azure" width="42" height="42" />
 </a>
-
+<a target="_blank" href="" style="display: inline-block;">
+ <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" alt="laravel" width="42" height="42" />
+</a>
+<a target="_blank" href="" style="display: inline-block;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png" alt=".net" width="42" height="42" />
+</a>
 
 </p>
 

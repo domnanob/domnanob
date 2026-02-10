@@ -17,7 +17,7 @@ Started learning IT in high school, graduated with excellent results, built real
 🚀 **Outside the terminal:**
 When I’m not debugging loops, you’ll find me smashing tennis balls, leveling up in games, or capturing life through photography 📸. 
 
-✨ Creating projects since 8 years
+✨ Creating projects for more than 6 years
 
 🎯 I already got my degree and searching opportunities in Vienna
 

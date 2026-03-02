@@ -1,5 +1,5 @@
 👋 **Hey there, I’m Bálint!**
-Junior developer, lifelong code-lover, learner and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I've successfully claimed my degree, worked on interesting high quality projects, researches and I love sharing what I learn along the way.
+Junior developer, and part-time programming teacher from Hungary 🇭🇺. From tinkering with code as a kid to guiding budding programmers, I've successfully claimed my degree, worked on interesting high quality projects, researches and I love sharing what I learn along the way.
 
 🧠 **What I do:**
 
